@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pembayaran Listrik Pasca Bayar
+</name>
+</assembly>
+<members>
+<member name="T:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_26a1_0__256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_26a1_0__512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_27f2_0__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_27f2_0__48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__481">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__482">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__641">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__642">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_d83d_0__643">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_e736_0__64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_e73d_0__128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_e73d_0__256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_e73d_0__64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.Entypo_e73d_0__641">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f00c_2__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f00d_3__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f014_0__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f021_0__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f040_1__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f067_0__32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f090_0__128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f090_0__512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f090_0__64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f0e7_0__128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f0e7_0__48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f0e7_0__64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f155_0__128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.FontAwesome_f155_0__64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pembayaran_Listrik_Pasca_Bayar.My.Resources.Resources.IP_PLN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Pembayaran_Listrik_Pasca_Bayar.SQLControl">
+     =====  MODULE MYSQL  =====    '''
+                                   '''
+ Pembuat : Ibnu Rizqia Ramadan     '''
+ Jurusan : RPL angkatan 15         '''
+ VERSI   : 1.3.1 (BETA)            '''
+                                   '''
+        Terimakasih Kepada         '''
+  Teman - teman yg sudah membantu  '''
+     =====  MODULE MYSQL  =====    '''
+</member>
+<member name="F:Pembayaran_Listrik_Pasca_Bayar.SQLControl.SERVER">
+ DATABASE SETTING !!!
+</member>
+<member name="F:Pembayaran_Listrik_Pasca_Bayar.SQLControl.SHOW_ERROR">
+ ERROR SETTING !!!
+</member>
+<member name="F:Pembayaran_Listrik_Pasca_Bayar.SQLControl.CONNECTIONSTRING">
+ ERROR SETTING !!!
+</member>
+</members>
+</doc>
